@@ -1,0 +1,6 @@
+@media (max-width: 46.1875em) {
+    .btn:hover {
+        background-color: #fff;
+        -webkit-tap-highlight-color: transparent;
+    }
+}
