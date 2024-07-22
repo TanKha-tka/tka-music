@@ -159,7 +159,7 @@ header h2 {
 /* PLAYLIST */
 .playlist {
     background-color: #f6e9ec;
-    padding: 412px 12px 20px;
+    padding: 412px 12px 6px;
     width: 480px;
 }
   
@@ -244,3 +244,32 @@ header h2 {
     background-color: #efa8bb;
 }
 
+/* Footer */
+.footer-item {
+    height: 125px;
+    width: 480px;
+    background-color: #f599b2;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--white-color);
+    padding-top: 28px;
+    letter-spacing: 2px;
+}
+
+.footer-social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-social__link {
+    text-decoration: none;
+    color: var(--white-color);
+    padding: 16px 32px;
+    font-size: 1.4rem;
+}
