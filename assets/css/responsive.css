@@ -3,4 +3,7 @@
         background-color: #fff;
         -webkit-tap-highlight-color: transparent;
     }
+    .footer-social__link {
+        -webkit-tap-highlight-color: transparent;
+    }
 }
